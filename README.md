@@ -13,7 +13,7 @@ We confirm the validity of five factors in the Fama–French model. In addition,
 Our results also uncovered six interesting theoretical findings through the regression model, 
 
 1. The O.L.S. estimators of the unknown coefficients and error variance are unbiased. 
-2. The “correct” meaning of a $100(1-\alpha)$% confidence interval of an unknown coefficient is that roughly the true coefficient value of the coefficient will fall into the generated confidence interval in $100(1-\alpha)$% replications.
+2. The “correct” meaning of a $100(1-\alpha)$% confidence interval of an unknown coefficient is that roughly the true coefficient value of the coefficient will fall into the generated confidence interval in \\(100(1-\alpha)%\\) replications.
 3. The significance level of the t test for testing a linear hypothesis concerning one or more coefficients is the probability of committing a Type I error.
 4. The t test is unbiased.
 5. if some of the important variables are omitted, the estimators of the remaining coefficients will become biased.
